@@ -32,8 +32,11 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow - Bachelor of Technology (E
 
 ### Awards and Recognition
 2023 | Received the “Technical Excellence 2023” award from EVERSANA on Oct 2023.  
+---
 2022 | Awarded the “Faculty of Science Scholarships for Online Masters Students” towards my tuition fee for the MSc degree on Nov 2022.  
+---
 2018 | Secured 1st position among 23 teams in inter-college presentation competition on Artificial Intelligence in IGNITE'18 Technical fest organized by IILM, Gr. Noida on 16th & 17th March 2018.  
+---
 2018 | Secured 2nd position among seven team in Technical Poster Presentation event at Dr ABDUL KALAM TECHNICAL, LITERARY AND MANAGEMENT FEST-2018 (ZONAL LEVEL) organized by NIET, GR. NOIDA on 22nd-24th March 2018.  
 
 ### Internships
@@ -43,4 +46,5 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow - Bachelor of Technology (E
 
 ### Certificates
 2022 | [R (Intermediate) Certificate by HackerRank](https://www.hackerrank.com/certificates/4255b5f4ce37)  
+---
 2022 | [Data Science: Foundations using R by Coursera](https://coursera.org/verify/specialization/KJRWW8YA5686)  
