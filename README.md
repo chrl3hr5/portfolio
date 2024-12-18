@@ -54,6 +54,8 @@
   - Analyzed 111 years of rainfall data (1901–2011) for 596 Indian districts.
   - Created a Shiny application for interactive data visualization and forecasting.
 
+---
+
 ## Certificates
 **2022**
 - [R (Intermediate) Certificate by HackerRank](https://www.hackerrank.com/certificates/4255b5f4ce37)  
