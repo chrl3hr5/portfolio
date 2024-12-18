@@ -31,9 +31,9 @@ Technical Skills - Python, SQL, R
 - 2018 | Secured 2nd position among seven team in Technical Poster Presentation event at Dr ABDUL KALAM TECHNICAL, LITERARY AND MANAGEMENT FEST-2018 (ZONAL LEVEL) organized by NIET, GR. NOIDA on 22nd-24th March 2018.
 
 ### Internships
-2019 | [FOSSEE fellow](https://fossee.in/fellowship/2019) at Indian Institute of Technology Bombay, Mumbai (3 months)
-- Analyzed 111 years of rainfall data (1901–2011) for 596 Indian districts.
-- Created a Shiny application for interactive data visualization and forecasting.
+- 2019 | [FOSSEE fellow](https://fossee.in/fellowship/2019) at Indian Institute of Technology Bombay, Mumbai (3 months)
+  - Analyzed 111 years of rainfall data (1901–2011) for 596 Indian districts.
+  - Created a Shiny application for interactive data visualization and forecasting.
 
 ### Certificates
 - 2022 | [R (Intermediate) Certificate by HackerRank](https://www.hackerrank.com/certificates/4255b5f4ce37)
