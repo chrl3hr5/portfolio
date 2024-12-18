@@ -8,6 +8,8 @@
 **Dr. A.P.J. Abdul Kalam Technical University, Lucknow - Bachelor of Technology (Electronics & Communication Engineering)** | *2015 – 2019*
   - GPA: 7.43/10
 
+---
+
 ## Work Experience
 **R Developer @ EVERSANA, Pune** | *Dec 2022 – Aug 2024*
   - Responsible for the maintenance and development of [NAVLIN](https://www.eversana.com/solutions/products-technology/navlin/) by EVERSANA. Handled software bugs, added features to highlight countries impacting drug prices and conducted unit testing.
@@ -21,6 +23,8 @@
   - Conducted online workshops on the [basics of Statistics](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=l5rapSmiSkmObhISCLjV_w&category=UubpVTjA3FS-DQx8uW4rlA), [K-means Clustering](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=zDEbCbywHBg5OPLFMDAadg&category=UubpVTjA3FS-DQx8uW4rlA), [LDA](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=zDEbCbywHBg5OPLFMDAadg&category=UubpVTjA3FS-DQx8uW4rlA), [Data Visualization](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=1iTsyg1QdVnqHaTmd7GKlg&category=UubpVTjA3FS-DQx8uW4rlA), and [Exploratory Data Analysis](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=HLL0wA0XvfFFGsG5WdQrLA&category=UubpVTjA3FS-DQx8uW4rlA) using R.
   - Created academic lab coursework materials on [Linear Regression](https://r.fossee.in/lab-migration/lab-migration-run/6), [Artificial Neural Network](https://r.fossee.in/lab-migration/lab-migration-run/6), and [Statistical Quality Control](https://r.fossee.in/lab-migration/lab-migration-run/12) using R.
 
+---
+
 ## Publications
 **S. Kar et al., “Mixed Signal Simulation Marathon for Education and Employment,” in 2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), Maldives, Maldives: IEEE, Nov. 2022, pp. 1–6. doi: 10.1109/ICECCME55909.2022.9988191 ([Link](https://ieeexplore.ieee.org/document/9988191))**
   - Linked data objects obtained from the compiled Ngspice and Verilog files.
@@ -29,6 +33,8 @@
 **K. Moudgalya, D. Singh, and A. Palanisamy, “Interoperability between R and OpenModelica,” presented at the OpenModelica Annual Workshop, Jan. 31, 2022. ([Link](https://openmodelica.org/images/M_images/OpenModelicaWorkshop_2022/1420_OMR_Interoperability.pdf))**
   - Implemented interoperability between OpenModelica and R via C.
   - Demonstrated interoperability by executing the ‘optim’ function of R using inputs from OpenModelica to perform general-purpose optimization.
+
+---
 
 ## Awards and Recognition
 **2023**
@@ -40,6 +46,8 @@
 **2018**
 - Secured 1st position among 23 teams in inter-college presentation competition on Artificial Intelligence in IGNITE'18 Technical fest organized by IILM, Gr. Noida on 16th & 17th March 2018.
 - Secured 2nd position among seven team in Technical Poster Presentation event at Dr ABDUL KALAM TECHNICAL, LITERARY AND MANAGEMENT FEST-2018 (ZONAL LEVEL) organized by NIET, GR. NOIDA on 22nd-24th March 2018.  
+
+---
 
 ## Internships
 **2019** | **[FOSSEE fellow](https://fossee.in/fellowship/2019) at Indian Institute of Technology Bombay, Mumbai** *(3 months)*
