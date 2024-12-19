@@ -3,7 +3,7 @@
 
 ## Education
 **University of Strathclyde, Glasgow - Master of Science (Applied Statistics with Data Science)** | *2023 – Ongoing*
-  - CWA: 81.9% (Till last semester)
+  - GPA: 4/4 (Till last semester)
 
 **Dr. A.P.J. Abdul Kalam Technical University, Lucknow - Bachelor of Technology (Electronics & Communication Engineering)** | *2015 – 2019*
   - GPA: 7.43/10
