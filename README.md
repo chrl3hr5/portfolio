@@ -11,22 +11,22 @@
 ---
 
 ## Work Experience
-**Researcher @ Pontificia Universidad Católica de Chile, Chile** | *Apr 2025 – June 2025* | *Internship*
-  - Contributed to the redesign of the Writing Center at the Villarrica campus (South Chile) of the Pontificia Universidad Católica de Chile, for Practice-Based Teacher Education to prepare teachers toward transformative education.
+**Researcher @ Pontificia Universidad Católica de Chile, Villarrica, Chile** | *Apr 2025 – June 2025* | *Internship*
+  - Contributed to the redesign of the Writing Center at the Villarrica campus (South Chile) of Pontificia Universidad Católica de Chile, for Practice-Based Teacher Education to prepare teachers toward transformative education.
 
-**R Developer @ EVERSANA, Pune** | *Dec 2022 – Aug 2024* | *Full-time*
+**R Developer @ EVERSANA, Pune, Maharashtra, India** | *Dec 2022 – Aug 2024* | *Full-time*
   - Responsible for the maintenance and development of [NAVLIN](https://www.eversana.com/solutions/products-technology/navlin/) by EVERSANA. Handled software bugs, added features to highlight countries impacting drug prices and conducted unit testing.
 
-**Project Research Associate @ Indian Institute of Technology Bombay, Mumbai** | *Jan 2022 – Nov 2022* | *Full-time*
+**Project Research Associate @ Indian Institute of Technology Bombay, Mumbai, Maharashtra, India** | *Jan 2022 – Nov 2022* | *Full-time*
   - Implemented [interoperability between OpenModelica and Scilab via C](https://github.com/chrl3hr5/OMScilab) to call Scilab's FOSSEE Optimization Toolbox (FOT) functions from OpenModelica.
   - Implemented [interoperability between OpenModelica and R via C](https://github.com/chrl3hr5/OMR) to call R's general-purpose optimization functions from OpenModelica.
   - Added the feature of [Verilog to Ngspice conversion (NgVeri) in eSim 2.2](https://github.com/FOSSEE/eSim/blob/master/src/maker/NgVeri.py) by linking object files of Ngspice (C) and Verilator (C++).
 
-**Project Research Assistant @ Indian Institute of Technology Bombay, Mumbai** | *July 2019 – Dec 2021* | *Full-time*
+**Project Research Assistant @ Indian Institute of Technology Bombay, Mumbai, Maharashtra, India** | *July 2019 – Dec 2021* | *Full-time*
   - Conducted online workshops on the [basics of Statistics](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=l5rapSmiSkmObhISCLjV_w&category=UubpVTjA3FS-DQx8uW4rlA), [K-means Clustering](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=zDEbCbywHBg5OPLFMDAadg&category=UubpVTjA3FS-DQx8uW4rlA), [LDA](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=zDEbCbywHBg5OPLFMDAadg&category=UubpVTjA3FS-DQx8uW4rlA), [Data Visualization](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=1iTsyg1QdVnqHaTmd7GKlg&category=UubpVTjA3FS-DQx8uW4rlA), and [Exploratory Data Analysis](https://www.it.iitb.ac.in/nmeict/workshopContent.html?workshopid=HLL0wA0XvfFFGsG5WdQrLA&category=UubpVTjA3FS-DQx8uW4rlA) using R.
   - Created academic lab coursework materials on [Linear Regression](https://r.fossee.in/lab-migration/lab-migration-run/6), [Artificial Neural Network](https://r.fossee.in/lab-migration/lab-migration-run/6), and [Statistical Quality Control](https://r.fossee.in/lab-migration/lab-migration-run/12) using R.
 
-**[FOSSEE fellow](https://fossee.in/fellowship/2019) @ FOSSEE, IIT Bombay, Mumbai** | *May 2019 – July 2019* | *Internship*
+**[FOSSEE fellow](https://fossee.in/fellowship/2019) @ FOSSEE, IIT Bombay, Mumbai, Maharashtra, India** | *May 2019 – July 2019* | *Internship*
   - Analyzed 111 years of rainfall data (1901–2011) for 596 Indian districts.
   - Created a Shiny application for interactive data visualization and forecasting.
 
