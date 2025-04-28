@@ -48,7 +48,7 @@
 - Received the “Technical Excellence 2023” award from EVERSANA on Oct 2023.  
 
 **2022**
-- Awarded the “Faculty of Science Scholarships for Online Masters Students” towards my tuition fee for the MSc degree on Nov 2022.  
+- Recipient of the "Faculty of Science Scholarships for Online Masters Students" towards tuition fees for the MSc in Applied Statistics with Data Science degree in November 2022.
 
 **2018**
 - Secured 1st position among 23 teams in inter-college presentation competition on Artificial Intelligence in IGNITE'18 Technical fest organized by IILM, Gr. Noida on 16th & 17th March 2018.
