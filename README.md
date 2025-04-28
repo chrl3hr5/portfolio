@@ -45,7 +45,7 @@
 
 ## Awards and Recognition
 **2023**
-- Received the “Technical Excellence 2023” award from EVERSANA on Oct 2023.  
+- Received the “Technical Excellence 2023” award from EVERSANA in October 2023.  
 
 **2022**
 - Awarded the "Faculty of Science Scholarships for Online Masters Students" in November 2022 towards tuition fees for the MSc in Applied Statistics with Data Science degree.
