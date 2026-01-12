@@ -1,5 +1,5 @@
 # Master's Student, University of Strathclyde
-*Technical Skills - Python, SQL, R*
+*Technical Skills - Python, SQL, R*\
 *Tools - Azure DevOps, Git, R Shiny*
 
 ## Education
